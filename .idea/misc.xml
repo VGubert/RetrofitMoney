@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vyacheslav/AndroidStudioProjects/RetrofitMoney/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.166" />
+        <entry key="..\:/Users/Vyacheslav/AndroidStudioProjects/RetrofitMoney/app/src/main/res/layout/activity_main.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/Vyacheslav/AndroidStudioProjects/RetrofitMoney/app/src/main/res/layout/fragment_root.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Vyacheslav/AndroidStudioProjects/RetrofitMoney/app/src/main/res/layout/fragment_second.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Vyacheslav/AndroidStudioProjects/RetrofitMoney/app/src/main/res/layout/fragment_splash.xml" value="0.25" />
         <entry key="..\:/Users/Vyacheslav/AndroidStudioProjects/RetrofitMoney/app/src/main/res/layout/item_money_layout.xml" value="0.27291666666666664" />
